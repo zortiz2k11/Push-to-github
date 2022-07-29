@@ -1,0 +1,9 @@
+#hello {
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+#change {
+    color: darkorchid;
+}
